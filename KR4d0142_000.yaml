@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0142/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0142_WYG_000-1a, image: WYG1127/WYG1127-0377a.png}
+body:
+  text: 提要老圃集二卷别集類三宋臣等謹案老圃集二卷宋洪芻撰芻字駒父南昌人紹聖元年進士靖康中官至諫議大夫後謫沙門島以卒劉克莊後村詩話曰三洪與徐師川皆山谷之甥龜父警句往往前人所未道然早卒惜未多見駒父詩尤工陸游老學菴筆記亦極稱其竄海島詩烟波不隔還鄉夢風月猶隨過海身句蓋當時文人頗重之然芻之竄也楓忩小牘謂坐為金人括財太峻頗稱其寃今考王明清玉照新志所載則芻實於根括金銀之時入諸王邸中以勢挾內人唱歌侍酒得罪名教殆不容誅當時僅斥海濵殊為佚罰其人如是其詩本不足重輕特其學有師承深得豫章之格但以文論固不愧酷似其舅之稱録六朝人集者存沈約范雲録唐人集者存沈佺期宋之間就詩言詩片長節取亦古來著録之通例也宋史藝文志載老圃集一卷久佚不傳宋詩紀事僅從諸地志類書中捃托數篇不及百分之一惟永樂大典所載尚得一百七十首殆當時全部收入與以篇帙稍多謹釐為上下二卷以便循覽焉乾隆四十六年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:f45fd67092ae318b935be8f467599ececf0783215eaa7dad92a0660649c87124
+metadata:
+  title: 老圃集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:56:14.903248'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0142/KR4d0142_000.txt
+hash: sha256:91e10ff05ff8c78a8ea1ee77a788f4e7041fdd3dab03f850894c2906de9f47fd
